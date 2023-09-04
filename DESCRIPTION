@@ -3,7 +3,7 @@ Title: Population and housing census data in 2021 summarised from the Ghana stat
 Version: 0.1.1
 Authors@R: 
     person( given = "George Kyei", 
-            last = "Agyen",  
+            family = "Agyen",  
             email = "gkagyen@live.com", 
             role = c("aut", "cre"),
             comment = c(ORCID = "0000-0001-5436-0026"))

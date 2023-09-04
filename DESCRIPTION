@@ -1,0 +1,20 @@
+Package: DatGss
+Title: Population and housing census data in 2021 summarised from the Ghana statistical survey
+Version: 0.1.1
+Authors@R: 
+    person( given = "George Kyei", 
+            last = "Agyen",  
+            email = "gkagyen@live.com", 
+            role = c("aut", "cre"),
+            comment = c(ORCID = "0000-0001-5436-0026"))
+Description: This is a data package that contains several dataframes from the Ghana Statistical 
+Survey (GSS) 2021 Population and Housing Census.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+URL: https://github.com/gkagyen/DatGss
+BugReports: https://github.com/gkagyen/DatGss/issues

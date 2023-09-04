@@ -7,8 +7,7 @@ Authors@R:
             email = "gkagyen@live.com", 
             role = c("aut", "cre"),
             comment = c(ORCID = "0000-0001-5436-0026"))
-Description: This is a data package that contains several dataframes from the Ghana Statistical 
-Survey (GSS) 2021 Population and Housing Census.
+Description: This is a data package that contains several dataframes from the Ghana StatisticalSurvey (GSS) 2021 Population and Housing Census.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

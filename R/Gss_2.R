@@ -1,0 +1,19 @@
+#' Population of various Household sizes in Ghana from the Ghana Population
+#' and Housing Census in 2021
+#'
+#'
+#' A dataset containing the number of people living together in a house or room quantified according to
+#' the various Regions in Ghana.The variables are as follows:
+#' @source \url{https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/}
+#' @format A data frame with 320 rows and 4 variables:
+#' \describe{
+#'   \item{Locality}{The type of area a particular group of people are located
+#'   (Rural, Urban)}
+#'   \item{Household_size}{the size of a single household in Ghana (1 Person, 2 Persons, 3 Persons,
+#'   4 Persons, 5 Persons, 6 Persons, 7 Persons, 8 Persons, 9 Persons, 10 Persons +)}
+#'     No Religion, Other Religion(apart from the ones stated))}
+#'   \item{Region}{All 16 Regions of Ghana (see...\url{https://www.ghanamissionun.org/map-regions-in-ghana/}
+#'     for more details on the 16 Regions in Ghana)}
+#'   \item{Population}{The number of people belonging to a particular Household_size}
+#' }
+"Gss_2"

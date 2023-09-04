@@ -1,0 +1,161 @@
+Religious_Affiliation,Locality,Geographic_Area,All ages
+Christian,Rural,Western,798100
+Christian,Rural,Central,1013371
+Christian,Rural,Greater Accra,393333
+Christian,Rural,Volta,734930
+Christian,Rural,Eastern,1213861
+Christian,Rural,Ashanti,1607838
+Christian,Rural,Western North,482800
+Christian,Rural,Ahafo,211007
+Christian,Rural,Bono,398228
+Christian,Rural,Bono East,355900
+Christian,Rural,Oti,319766
+Christian,Rural,Northern,301641
+Christian,Rural,Savannah,143359
+Christian,Rural,North East,154284
+Christian,Rural,Upper East,488238
+Christian,Rural,Upper West,316319
+Christian,Urban,Western,907812
+Christian,Urban,Central,1386393
+Christian,Urban,Greater Accra,4194182
+Christian,Urban,Volta,566682
+Christian,Urban,Eastern,1298562
+Christian,Urban,Ashanti,2631089
+Christian,Urban,Western North,213147
+Christian,Urban,Ahafo,211465
+Christian,Urban,Bono,582044
+Christian,Urban,Bono East,396392
+Christian,Urban,Oti,154833
+Christian,Urban,Northern,117575
+Christian,Urban,Savannah,40239
+Christian,Urban,North East,48597
+Christian,Urban,Upper East,153640
+Christian,Urban,Upper West,97081
+Islam,Rural,Western,101159
+Islam,Rural,Central,90057
+Islam,Rural,Greater Accra,29300
+Islam,Rural,Volta,29335
+Islam,Rural,Eastern,75898
+Islam,Rural,Ashanti,300279
+Islam,Rural,Western North,76652
+Islam,Rural,Ahafo,52440
+Islam,Rural,Bono,60504
+Islam,Rural,Bono East,105353
+Islam,Rural,Oti,50384
+Islam,Rural,Northern,580904
+Islam,Rural,Savannah,268632
+Islam,Rural,North East,241170
+Islam,Rural,Upper East,230355
+Islam,Rural,Upper West,270207
+Islam,Urban,Western,92635
+Islam,Urban,Central,169845
+Islam,Urban,Greater Accra,602291
+Islam,Urban,Volta,47801
+Islam,Urban,Eastern,118940
+Islam,Urban,Ashanti,565838
+Islam,Urban,Western North,28574
+Islam,Urban,Ahafo,40713
+Islam,Urban,Bono,93641
+Islam,Urban,Bono East,183915
+Islam,Urban,Oti,47544
+Islam,Urban,Northern,952062
+Islam,Urban,Savannah,149731
+Islam,Urban,North East,161182
+Islam,Urban,Upper East,154665
+Islam,Urban,Upper West,136524
+Traditionalist,Rural,Western,4783
+Traditionalist,Rural,Central,4448
+Traditionalist,Rural,Greater Accra,5603
+Traditionalist,Rural,Volta,119100
+Traditionalist,Rural,Eastern,13037
+Traditionalist,Rural,Ashanti,15757
+Traditionalist,Rural,Western North,2656
+Traditionalist,Rural,Ahafo,1266
+Traditionalist,Rural,Bono,6191
+Traditionalist,Rural,Bono East,36971
+Traditionalist,Rural,Oti,74178
+Traditionalist,Rural,Northern,250578
+Traditionalist,Rural,Savannah,27866
+Traditionalist,Rural,North East,37537
+Traditionalist,Rural,Upper East,213754
+Traditionalist,Rural,Upper West,54700
+Traditionalist,Urban,Western,1808
+Traditionalist,Urban,Central,4122
+Traditionalist,Urban,Greater Accra,9164
+Traditionalist,Urban,Volta,41339
+Traditionalist,Urban,Eastern,3027
+Traditionalist,Urban,Ashanti,6513
+Traditionalist,Urban,Western North,418
+Traditionalist,Urban,Ahafo,440
+Traditionalist,Urban,Bono,1516
+Traditionalist,Urban,Bono East,8559
+Traditionalist,Urban,Oti,20533
+Traditionalist,Urban,Northern,15188
+Traditionalist,Urban,Savannah,995
+Traditionalist,Urban,North East,2438
+Traditionalist,Urban,Upper East,13872
+Traditionalist,Urban,Upper West,962
+No Religion,Rural,Western,80448
+No Religion,Rural,Central,74872
+No Religion,Rural,Greater Accra,18450
+No Religion,Rural,Volta,64825
+No Religion,Rural,Eastern,91731
+No Religion,Rural,Ashanti,138801
+No Religion,Rural,Western North,44556
+No Religion,Rural,Ahafo,17105
+No Religion,Rural,Bono,28557
+No Religion,Rural,Bono East,58726
+No Religion,Rural,Oti,51109
+No Religion,Rural,Northern,74459
+No Religion,Rural,Savannah,16267
+No Religion,Rural,North East,8925
+No Religion,Rural,Upper East,27487
+No Religion,Rural,Upper West,18528
+No Religion,Urban,Western,48664
+No Religion,Urban,Central,72137
+No Religion,Urban,Greater Accra,134061
+No Religion,Urban,Volta,34677
+No Religion,Urban,Eastern,62796
+No Religion,Urban,Ashanti,112877
+No Religion,Urban,Western North,12310
+No Religion,Urban,Ahafo,11915
+No Religion,Urban,Bono,20175
+No Religion,Urban,Bono East,31201
+No Religion,Urban,Oti,15103
+No Religion,Urban,Northern,6177
+No Religion,Urban,Savannah,1136
+No Religion,Urban,North East,1556
+No Religion,Urban,Upper East,3547
+No Religion,Urban,Upper West,871
+Other Religion,Rural,Western,11491
+Other Religion,Rural,Central,20542
+Other Religion,Rural,Greater Accra,6999
+Other Religion,Rural,Volta,11397
+Other Religion,Rural,Eastern,23907
+Other Religion,Rural,Ashanti,21476
+Other Religion,Rural,Western North,11290
+Other Religion,Rural,Ahafo,7764
+Other Religion,Rural,Bono,6366
+Other Religion,Rural,Bono East,12834
+Other Religion,Rural,Oti,7318
+Other Religion,Rural,Northern,6528
+Other Religion,Rural,Savannah,3410
+Other Religion,Rural,North East,1712
+Other Religion,Rural,Upper East,10299
+Other Religion,Rural,Upper West,2930
+Other Religion,Urban,Western,7963
+Other Religion,Urban,Central,17548
+Other Religion,Urban,Greater Accra,43701
+Other Religion,Urban,Volta,4564
+Other Religion,Urban,Eastern,16864
+Other Religion,Urban,Ashanti,27713
+Other Religion,Urban,Western North,6452
+Other Religion,Urban,Ahafo,9528
+Other Religion,Urban,Bono,8240
+Other Religion,Urban,Bono East,9935
+Other Religion,Urban,Oti,3715
+Other Religion,Urban,Northern,1685
+Other Religion,Urban,Savannah,948
+Other Religion,Urban,North East,432
+Other Religion,Urban,Upper East,2322
+Other Religion,Urban,Upper West,848

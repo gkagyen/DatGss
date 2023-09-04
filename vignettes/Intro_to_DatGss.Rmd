@@ -1,0 +1,21 @@
+---
+title: "Intro_to_DatGss"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Intro_to_DatGss}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+This vignette will introduce you to how to use the DatGss Package in your work
+
+```{r setup}
+library(DatGss)
+```
